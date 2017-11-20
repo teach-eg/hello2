@@ -1,3 +1,3 @@
 # hello2
-I created a Readme.
-This is hibatch.
+I created a Readme
+conflict one!
