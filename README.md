@@ -1,3 +1,3 @@
 # hello2
-I created a Readme
-conflict one!
+I created a Readme.
+conflict master
